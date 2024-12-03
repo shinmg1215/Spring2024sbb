@@ -7,7 +7,8 @@
 
 ## 1.개요
 
-![62e7ef17 (1)](https://github.com/user-attachments/assets/efed0641-5065-43e9-90cd-3ee948610948)
+![dsada](https://github.com/user-attachments/assets/ec9a151b-0eb2-4293-b9ea-f52f7c82d276)
+
 
 ### 1.1 문재 정의
 
