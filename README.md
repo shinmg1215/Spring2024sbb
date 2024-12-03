@@ -7,13 +7,15 @@
 
 ## 1.개요
 
-![dsada](https://github.com/user-attachments/assets/ec9a151b-0eb2-4293-b9ea-f52f7c82d276)
+
 
 
 ### 1.1 문재 정의
 
 밸브 코퍼레이션이 개발하고 운영 중인 세계 최대 규모의 전자 소프트웨어 유통망.
 스팀 클라이언트를 통해 여러 가지 게임을 구입, 관리할 수 있으며, 채팅, 방송 및 다양한 커뮤니티 기능을 통해 다른 유저들과 소통할 수 있다. 약 5만 개가 넘는 게임들이 있다. 그래서 리뷰를 분석해보겠다.
+
+![dsada](https://github.com/user-attachments/assets/ec9a151b-0eb2-4293-b9ea-f52f7c82d276)
 
 ### 1.2 데이터 및 모델 개요 
 
